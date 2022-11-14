@@ -9,3 +9,6 @@
 - cd build
 - surge
 - enter domain
+
+deployed site: 
+https://jacob-rast.surge.sh/
