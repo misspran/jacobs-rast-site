@@ -5,7 +5,7 @@ export const NavBarContainer = styled.div`
     justify-content: flex-end;
     width: 100%;
     background-color: #2B303A;
-    padding: 20px 10px;
+    padding: 20px;
     position: fixed;
     color: #D64933;
     z-index: 2;
@@ -21,6 +21,7 @@ export const NavigationContainer = styled.div`
     display: flex;
     flex-direction: row;
     box-sizing: border-box;
+    padding-right: 20px;
 `
 export const NavigationButton = styled.a`
     border: none;
