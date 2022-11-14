@@ -1,2 +1,4 @@
-# jacobs-rast-site
-Jacob Rast Website
+# Running app
+- install npm 
+- npm start
+- navigate to localhost:3000
